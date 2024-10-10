@@ -118,3 +118,43 @@ header
         color:rgba(116, 116, 116, 1);
     }
 }
+.tugarshutekslar{
+    margin-top:300px;
+    width: 340px;
+    display: block;
+    
+}
+.tepa{
+    margin-bottom:90px;
+    h4{
+        font-weight: 400;
+        width:379px;
+        height: 99px;
+        font-family: "Roboto";
+        font-size:19px;
+        color:rgba(116, 116, 116, 1);
+    }
+}
+.tepatitle{
+    font-weight:700;
+    font-family: "Roboto";
+    font-size:20px;
+    color:rgba(0, 0, 0, 1);
+}
+.cssawards{
+    margin-bottom:90px;
+    h5{
+        font-weight: 400;
+        width:379px;
+        height: 99px;
+        font-family: "Roboto";
+        font-size:19px;
+        color:rgba(116, 116, 116, 1);
+    }
+}
+.psititle{
+    font-weight:700;
+    font-family: "Roboto";
+    font-size:20px;
+    color:rgba(0, 0, 0, 1);
+}
